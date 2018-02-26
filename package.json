@@ -6,6 +6,7 @@
   "main": "dist/commonjs/index.js",
   "module": "dist/es/index.js",
   "files": [
+    "docs",
     "src",
     "dist",
     "index.d.ts"
